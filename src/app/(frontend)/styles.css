@@ -164,3 +164,7 @@ svg {
     }
   }
 }
+
+.textInput {
+  @apply bg-black text-white border border-white/50 rounded p-2;
+}
